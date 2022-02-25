@@ -1,8 +1,0 @@
-Tempo - 1793km * 28Rs  = 50200
-Driver - 300Rs * 8days = 2400
-Driver Food - 500Rs * 8 = 4000
-Toll, Parking - 3200
-Accomo - 800Rs * 8 = 6400
-Food - 500Rs * 8 = 4000
-Extra tickets - 2000
-Flight - 10000
