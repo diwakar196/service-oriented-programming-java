@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="Stud.xsl"?> 
+<student> 
+<s> 
+<name> Abraham </name> 
+<branch> CSE</branch> 
+<age>18</age> 
+<city> Mumbai </city> 
+</s> 
+<s> 
+<name> Issac </name> 
+<branch> IT</branch> 
+<age> 20</age> 
+<city> Chennai </city> 
+</s> 
+<s>  
+<name> Moses </name> 
+<branch> CSE</branch> 
+<age> 23</age> 
+<city> Bengaluru</city> 
+</s> 
+<s>  
+<name> Joshua </name> 
+<branch> CSE</branch> 
+<age> 17</age> 
+<city> Delhi</city> 
+</s> 
+<s>  
+<name> Sumathi </name> 
+<branch> IT</branch> 
+<age> 25</age> 
+<city> Indore</city> 
+</s> 
+</student

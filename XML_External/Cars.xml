@@ -1,0 +1,39 @@
+<?xml version = "1.0"  encoding = "utf-8"?>
+<!DOCTYPE car_catalog SYSTEM "Cars.dtd">
+<car_catalog>
+<car>
+<year> 1997 </year>
+<model> MARUTHI</model>
+<color> Light blue </color>
+<engine>
+<number_of_cylinders> 8 cylinder</number_of_cylinders>
+<fuel_system> multi-port fuel injected </fuel_system>
+</engine>
+<number_of_doors> 4 door </number_of_doors>
+<transmission_type> 4 speed automatic</transmission_type>
+<accessories radio = "yes"  air_conditioning = "yes" power_windows = "yes" power_steering = "yes" power_brakes = "yes" />
+</car>
+<car>
+<year> 1965 </year>
+<model> FORD</model>
+<color> White </color>
+<engine>
+<number_of_cylinders> 8 cylinder</number_of_cylinders>
+<fuel_system> 4BBL carburetor </fuel_system>
+</engine>
+<number_of_doors> 2 door </number_of_doors>
+<transmission_type> 3 speed manual </transmission_type>
+<accessories radio = "yes"  air_conditioning = "no" power_windows = "no" power_steering = "yes" power_brakes = "yes" />
+</car>
+<car>
+<year> 1985 </year>
+<model> HYUNDAI</model>
+<color> Blue </color><engine>
+<number_of_cylinders> 4 cylinder</number_of_cylinders>
+<fuel_system> fuel injected </fuel_system>
+</engine>
+<number_of_doors> 4 door </number_of_doors>
+<transmission_type> 4 speed manual </transmission_type>
+<accessories radio = "yes"  air_conditioning = "yes" power_windows = "no" power_steering = "yes" power_brakes = "yes" />
+</car>
+</car_catalog>
