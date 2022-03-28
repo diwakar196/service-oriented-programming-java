@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="currency-conversion:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>currency-conversion</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="currency-conversion-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="currency-conversion:war exploded" />
+    </root>
+  </artifact>
+</component>
